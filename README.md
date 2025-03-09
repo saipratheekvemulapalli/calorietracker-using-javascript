@@ -4,7 +4,7 @@ A simple and effective web application to track your daily caloric intake. This 
 
 ## Live Demo
 
-You can view the live demo of the application [here](https://saipratheekvemulapalli.github.io/calorie/).
+You can view the live demo of the application [here](https://saipratheekvemulapalli.github.io/calorietracker-using-javascript/).
 
 ## Features
 
